@@ -1,0 +1,8 @@
+# vscode
+.vs
+
+# jetbrains
+.idea
+
+# build
+/cmake-build-*
